@@ -1,4 +1,4 @@
-In this project, let's build a **Coin Toss Game** by applying the concepts we have learned till now.
+In this project, let's build a **Coin Toss Game**
 
 ### Refer to the image below:
 
